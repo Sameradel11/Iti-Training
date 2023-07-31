@@ -1,0 +1,25 @@
+#firstdiv{
+    background-color: aqua;
+    
+}
+#seconddiv{
+    background-color: bisque;
+}
+#thirddiv{
+    background-color:yellow;
+}
+#fourthdiv{
+    color: purple;
+}
+#fifthdiv{  
+        color: springgreen;
+}
+#all{
+    display: flex;
+    
+}
+*{
+    padding-left: 30px;
+    text-align: center; 
+    margin-right: 40px;
+}
