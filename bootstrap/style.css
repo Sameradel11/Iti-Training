@@ -1,0 +1,59 @@
+
+.container-fluid{
+   color: white;
+}
+
+
+.custom-text-color {
+   color: #FF5733; /* Your custom color code */
+}
+
+#t{
+
+   background-image: url("wallpaper3e.jpg");
+   background-size: cover;
+   
+   width: 1024px;
+   height: 600px;
+   position:relative;
+}
+#textonphot{
+   color: white;
+   position: absolute;
+   top: 450px;
+   padding: 20px;
+   left: 40px;
+   font-size: 90;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.figure-caption{
+   text-align: center;
+   margin-left: 20px;
+
+}
+
+.progress-container {
+   margin-top: 20px;
+   display: flex;
+}
+
+.divwithtext {
+   margin-left: 10px;
+   margin-right: 10px;
+   flex: 1;
+}
+
+.iconrow{
+display: flex;
+}
+
+.Feature{
+   flex:1;
+}
+
+.cards{
+   display:flex;
+}
+.ourcard{
+   flex: 1;
+}
